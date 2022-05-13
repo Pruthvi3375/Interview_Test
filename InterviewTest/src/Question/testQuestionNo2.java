@@ -126,7 +126,6 @@ WebDriver driver;
 //	WebElement confirmYourAccount = driver.findElement(By.xpath("//a[text()='Confirm your account']"));
 //	confirmYourAccount.click();
 //	}
-//	
 //	}
 	
 }
